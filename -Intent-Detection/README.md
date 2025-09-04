@@ -1,1 +1,1 @@
-# Intent-Detection
+# Intent-Detection using sequence model and BERT
